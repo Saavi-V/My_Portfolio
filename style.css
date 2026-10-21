@@ -33,7 +33,7 @@ h3{font-family: 'LiSu';}
 
 footer{background-color: #1c1c1c;color: #f8f8f8;}
 
-footer a{position: absolute;right:570px; cursor: pointer; text-decoration: underline;}
+footerLink{position: absolute;right:570px; cursor: pointer; text-decoration: underline;}
 
 html{scroll-behavior: smooth;}
 
