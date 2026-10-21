@@ -1,0 +1,40 @@
+header{background-color: #7A3A3F;
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+       padding: 3px 30px;}
+
+ul{list-style: none;}
+a{text-decoration: none; color:#f8f8f8}
+
+h1{color:#f8f8f8; font-family:"Cooper Black",sans-serif; font-weight: 400;}
+
+#img1{width:35%; margin-left: 40%; margin-top: 10%;
+      border-radius: 100%;}
+
+#icons{margin-left:42%; }
+
+#rightIntro{margin-right: 20%; margin-top: 5%;}
+h3{font-family: 'LiSu';}
+
+.hero{display: flex;
+      justify-content: space-between;
+       align-items: center;}
+
+.secondary_headings{text-decoration: underline 2px;color:#1c1c1c;
+                    font-family: "Georgia";}
+
+.middle{font-family: "Palatino Linotype";
+       display:flex;
+       flex-direction: column;
+       text-align: center;}
+
+#para2{font-family: "Segoe Print";}
+
+footer{background-color: #1c1c1c;color: #f8f8f8;}
+
+footer a{position: absolute;right:570px; cursor: pointer; text-decoration: underline;}
+
+html{scroll-behavior: smooth;}
+
+
